@@ -1,0 +1,16 @@
+G:\VSCODE\Cod\ex1\ex2\obj\Debug\net6.0\ex2.GlobalUsings.g.cs
+G:\VSCODE\Cod\ex1\ex2\obj\Debug\net6.0\ex2.csproj.AssemblyReference.cache
+G:\VSCODE\Cod\ex1\ex2\obj\Debug\net6.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+G:\VSCODE\Cod\ex1\ex2\obj\Debug\net6.0\ex2.AssemblyInfoInputs.cache
+G:\VSCODE\Cod\ex1\ex2\obj\Debug\net6.0\ex2.AssemblyInfo.cs
+G:\VSCODE\Cod\ex1\ex2\obj\Debug\net6.0\ex2.csproj.CoreCompileInputs.cache
+G:\VSCODE\Cod\ex1\ex2\bin\Debug\net6.0\ex2.exe
+G:\VSCODE\Cod\ex1\ex2\bin\Debug\net6.0\ex2.deps.json
+G:\VSCODE\Cod\ex1\ex2\bin\Debug\net6.0\ex2.runtimeconfig.json
+G:\VSCODE\Cod\ex1\ex2\bin\Debug\net6.0\ex2.dll
+G:\VSCODE\Cod\ex1\ex2\bin\Debug\net6.0\ref\ex2.dll
+G:\VSCODE\Cod\ex1\ex2\bin\Debug\net6.0\ex2.pdb
+G:\VSCODE\Cod\ex1\ex2\obj\Debug\net6.0\ex2.dll
+G:\VSCODE\Cod\ex1\ex2\obj\Debug\net6.0\ref\ex2.dll
+G:\VSCODE\Cod\ex1\ex2\obj\Debug\net6.0\ex2.pdb
+G:\VSCODE\Cod\ex1\ex2\obj\Debug\net6.0\ex2.genruntimeconfig.cache
